@@ -34,3 +34,5 @@ out: dtype('float64')
 
 > [!IMPORTANT]
 > Practice 2d array slicing
+
+- Getting rid of rank 1 matrix, use resize(n, 1)
