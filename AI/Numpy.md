@@ -36,3 +36,7 @@ out: dtype('float64')
 > Practice 2d array slicing
 
 - Getting rid of rank 1 matrix, use resize(n, 1)
+
+> [!IMPORTANT]
+> Feb 25 In class assignment
+> Feb 27 Quiz Numpy
