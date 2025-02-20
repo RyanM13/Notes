@@ -115,6 +115,6 @@ t = ('one', 2)
 
 > [!IMPORTANT]
 > Quiz two
-> Wed 20
+> Thurs 20
 
 > Dictionaries
